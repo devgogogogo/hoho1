@@ -2,5 +2,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("테스트용");
         System.out.println("테스트용2");
+        System.out.println("테스스용3");
     }
 }
